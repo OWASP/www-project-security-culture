@@ -22,4 +22,4 @@ View the always-current stable version at [stable](stable/).
 
 ## Version 1.0 - April 2022
 
-View [web](v10/), download [pdf] or [epub].
+View [web](v10/), download [pdf](https://github.com/OWASP/security-culture/releases/download/v1.0/OWASP_Security_Culture-1.0.pdf) or [epub](https://github.com/OWASP/security-culture/releases/download/v1.0/OWASP_Security_Culture-1.0.epub).
