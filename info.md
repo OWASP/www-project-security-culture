@@ -8,6 +8,10 @@
 ### Downloads
 - [Download](https://github.com/OWASP/security-culture/releases/latest)
 
+### Slack
+- [Join OWASP Slack](https://owasp.org/slack/invite)
+- [#project-security-culture](https://owasp.slack.com/messages/project-security-culture/details/)
+
 ### License
 
 * [![CC BY-SA 4.0](https://licensebuttons.net/l/by-sa/4.0/80x15.png)](https://creativecommons.org/licenses/by-sa/4.0/) CC BY-SA 4.0
