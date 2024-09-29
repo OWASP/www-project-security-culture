@@ -16,10 +16,12 @@ of the OWASP Integration Standards project.
 | Area                   | OWASP Projects                                                    |
 | :----------------------|:------------------------------------------------------------------|           
 | Define maturity goal   | [OWASP Software Assurance Maturity Model (SAMM)](https://owasp.org/www-project-samm/)                       |      
-| Security Champions     | [OWASP Security Champions Playbook](https://github.com/c0rdis/security-champions-playbook)             |
-| Activities             | [OWASP Secure Flag Open Platform](https://owasp.org/www-project-secureflag-open-platform/)   |
-|                        | [OWASP Juice Shop](https://owasp.org/www-project-juice-shop/)     |
+|  Security Champions    | [OWASP Security Champions Playbook](https://github.com/c0rdis/security-champions-playbook)|
+|                        | [OWASP Security Champions Guidebook](https://owasp.org/www-project-security-champions-guidebook)
+|  Activities            | [OWASP Juice Shop](https://owasp.org/www-project-juice-shop/)|
+|                        | [OWASP Secure Coding Dojo](https://owasp.org/www-project-secure-coding-dojo/)
 |  Threat modelling      | [OWASP Threat Dragon](https://owasp.org/www-project-threat-dragon/)|
+|                        | [OWASP Cornucopia](https://owasp.org/www-project-cornucopia/)|
 |  Security testing      | [OWASP Web Security Testing Guide](https://owasp.org/www-project-web-security-testing-guide/) |
-|                        | [OWASP ZAP](https://www.zaproxy.org/)                             |
+|                        | [OWASP Dependency Track](https://owasp.org/www-project-dependency-track/)|
 |  Metrics               | [OWASP CISO Guide](https://owasp.org/www-pdf-archive/Owasp-ciso-guide.pdf)|
