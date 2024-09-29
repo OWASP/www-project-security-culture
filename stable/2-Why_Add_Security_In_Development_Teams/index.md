@@ -33,7 +33,9 @@ the most understanding of the locations of possible security issues.
 However, developers have varying degrees of security knowledge and
 experience. It is then essential to add security into the development
 process and ensure development team members have the skills necessary to
-deliver secure software.
+deliver secure software. Developers can refer to the [OWASP Developer
+Guide](https://owasp.org/www-project-developer-guide/), a comprehensive
+reference guide to the areas of application security.
 
 [^1]:  OWASP. *Web Security Testing Guide 4.2.* 2020.
     [*https://github.com/OWASP/wstg/releases/download/v4.2/wstg-v4.2.pdf*](https://github.com/OWASP/wstg/releases/download/v4.2/wstg-v4.2.pdf)*

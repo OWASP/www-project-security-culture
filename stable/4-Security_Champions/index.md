@@ -45,8 +45,10 @@ next look towards establishing a [Community of
 Practice](https://www.mitre.org/publications/systems-engineering-guide/enterprise-engineering/enterprise-governance/communities-of-interest-andor-community-of-practice)
 for security.
 
-The following section will describe the steps defined in the [OWASP
-Security Champions Playbook](https://github.com/c0rdis/security-champions-playbook)
+The following section will describe the steps to build a Security
+Champions program as defined in the [OWASP Security Champions Playbook](https://github.com/c0rdis/security-champions-playbook). See also the [OWASP Security Champions Guidebook](https://owasp.org/www-project-security-champions-guidebook)
+that describes key principles for a successful Security Champions
+program.
 
 ### 1. Identify teams
 

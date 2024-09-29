@@ -52,7 +52,7 @@ tests are run at build time, such as checking for any vulnerabilities
 in libraries, known as Software Composition Analysis (SCA); or
 vulnerabilties in container images. Security tests run at
 deploy time, which allows automated testing on a running application,
-known as Dynamic Application Security Testing (DAST)..
+known as Dynamic Application Security Testing (DAST).
 
 
 ![Security Testing Tools by SDLC Phase Diagram](images/security_testing.png)\
@@ -107,23 +107,6 @@ Tools](https://owasp.org/www-community/Free_for_Open_Source_Application_Security
     [OWASP Vulnerability Scanning
     Tools](https://owasp.org/www-community/Vulnerability_Scanning_Tools)
 
-    -   [OWASP ZAP](https://www.zaproxy.org/)
-
-## Vulnerability management
-
-As vulnerabilities are identified from security testing tools they need
-to be recorded and managed. As mentioned in the threat modelling
-section, vulnerabilities should be defined with an Impact and Likelihood
-risk rating. Risk ratings use a quantitative rating such as the [OWASP
-Risk Rating Methodology](https://owasp.org/www-community/OWASP_Risk_Rating_Methodology),
-or qualitative using for example low; medium; high. When vulnerabilities
-are assigned a risk rating, this allows their remediation to be
-prioritised accordingly. An organisation may implement a required
-timeframe that vulnerabilities of a particular risk rating are to be
-remediated.
-
--   [OWASP Defect dojo](https://owasp.org/www-project-defectdojo/)
-
 ## Penetration testing
 
 A penetration tester plays the role of the attacker to find and exploit
@@ -142,6 +125,53 @@ A security team needs to help the development team interpret the
 penetration test report and provide guidance. An application security
 engineer may first check the report to remove any false positives before
 assigning developers to address the found vulnerabilities.
+
+## Bug bounty programs
+
+Another approach to discover exploitable vulnerabilities is to implement
+a bug bounty program. An organisation with a bug bounty program invites
+bug hunters or security researchers to provide vulnerability details in
+return for a bounty reward, possibly monetary, for the finding.
+
+It is important to have a well defined program detailing the type of
+findings that will be accepted and the systems in scope for testing.
+
+An example bug bounty program can be found at the [OWASP Bug Bounty page](https://owasp.org/www-community/initiatives/bugbounty/)
+
+For more details see the [OWASP Vulnerability Disclosure Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Vulnerability_Disclosure_Cheat_Sheet.html#bug-bounty-programs)
+
+## Vulnerability management and Application Security Posture Management (ASPM)
+
+As vulnerabilities are identified from security testing tools they need
+to be recorded and managed. As mentioned in the threat modelling
+section, vulnerabilities should be defined with an Impact and Likelihood
+risk rating. Risk ratings use a quantitative rating such as the [OWASP
+Risk Rating Methodology](https://owasp.org/www-community/OWASP_Risk_Rating_Methodology),
+or qualitative using for example low; medium; high. When vulnerabilities
+are assigned a risk rating, this allows their remediation to be
+prioritised accordingly. An organisation may implement a required
+timeframe that vulnerabilities of a particular risk rating are to be
+remediated.
+
+Extending on from Vulnerability management, the goal of Application
+Security Posture Management (ASPM) is to prioritise the remediation of
+vulnerabilities that will have a business impact. Rather than trying to
+fix all vulnerabilities, there should be a focus on remediating the
+vulnerabilities with the greatest risk to the organisation. Factors
+that can determine a higher risk rating include whether a vulnerability
+is exploitable, publicly accessible, or if the vulnerability exists on a
+critical asset.  
+
+An Application Security Posture Management tool aggregates
+vulnerabilities from various security testing tools. This can be useful
+to help build security culture as developers and security engineers will
+have a single location to access all vulnerabilities, or all findings
+could be exported to a tool that developers are already using. An
+Application Security Posture Management tool makes it easier to assign
+particular vulnerabilities to relevant teams in an automated way,
+for example based on code repository.
+
+-   [OWASP Defect dojo](https://owasp.org/www-project-defectdojo/)
 
 [^6]:  Scott Gerlach, Developer\'s struggle with security, OWASP 20th
     Anniversary. 2021.

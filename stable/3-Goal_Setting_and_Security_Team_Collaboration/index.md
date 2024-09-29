@@ -144,8 +144,8 @@ attention.
 [^3]:  Rich Smith, *Agile Application Security*, (USA: O\'Reilly, 2017),
     318.
 
-[^4]:  Astha Singhal, Scaling Appsec at Netflix. 2019. 
-    [*https://netflixtechblog.medium.com/scaling-appsec-at-netflix-6a13d7ab6043*](https://netflixtechblog.medium.com/scaling-appsec-at-netflix-6a13d7ab6043)
+[^4]:  OWASP, How to start an AppSec program with the OWASP Top 10. 2021. 
+    [*https://owasp.org/Top10/A00_2021-How_to_start_an_AppSec_program_with_the_OWASP_Top_10/#stage-2-plan-for-a-paved-road-secure-development-lifecycle*](https://owasp.org/Top10/A00_2021-How_to_start_an_AppSec_program_with_the_OWASP_Top_10/#stage-2-plan-for-a-paved-road-secure-development-lifecycle)
 
 [^5]:  Anunay Bhatt, Uncomplicate Security for Developers using
     Reference Architectures. 2021.

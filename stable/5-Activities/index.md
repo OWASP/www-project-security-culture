@@ -104,11 +104,6 @@ secure coding techniques, how to avoid common security mistakes and
 remediate vulnerabilities. These are targeted to a particular
 programming language.
 
-Resources:
-
--   [OWASP Secure Flag Open
-    Platform](https://owasp.org/www-project-secureflag-open-platform/)
-
 ### Vulnerable applications
 
 Intentionally vulnerable applications give developers hands-on
@@ -138,7 +133,7 @@ finding or exploiting vulnerabilities.
 Resources:
 
 -   [OWASP Juice Shop vulnerable app (CTF
-    instructions)](https://pwning.owasp-juice.shop/part1/ctf.html)
+    instructions)](https://help.owasp-juice.shop/part1/ctf.html)
 
 ### Hackathon
 

@@ -20,6 +20,11 @@ Metrics; all with references to useful relevant OWASP projects.
 
 View the always-current stable version at [stable](stable/).
 
+## Version 1.1 - October 2024
+
+Added section on Bug bounties and Application Security Posture Management. Updated references to OWASP projects.
+View [web](v11/), download [pdf](https://github.com/OWASP/security-culture/releases/download/v1.1/OWASP_Security_Culture-1.1.pdf) or [epub](https://github.com/OWASP/security-culture/releases/download/v1.1/OWASP_Security_Culture-1.1.epub).
+
 ## Version 1.0 - April 2022
 
 View [web](v10/), download [pdf](https://github.com/OWASP/security-culture/releases/download/v1.0/OWASP_Security_Culture-1.0.pdf) or [epub](https://github.com/OWASP/security-culture/releases/download/v1.0/OWASP_Security_Culture-1.0.epub).
