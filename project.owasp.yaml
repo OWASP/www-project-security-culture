@@ -1,0 +1,30 @@
+audience:
+  - builder
+  - defender
+community:
+  - name: project-security-culture
+    platform: slack
+    url: https://owasp.slack.com/archives/C03CHLJ1YLR
+    description: A guide for establishing a security culture when building an application security programme
+leaders:
+  - name: Nick Miller
+    email: nick.miller@owasp.org
+    github: nickmillerinfosec
+level: 2
+license:
+  - CC-BY-SA-4.0
+name: OWASP Security Culture
+pitch: A guide for establishing a security culture when building an application security program
+repositories:
+  - name: www-project-security-culture
+    url: https://github.com/OWASP/www-project-security-culture
+    description: OWASP Foundation Web Repository
+  - name: security-culture
+    url: https://github.com/OWASP/security-culture
+    description: OWASP Security Culture repository
+tags:
+  - securityculture
+  - custom-tag-1
+  - custom-tag-2
+type: documentation
+website: https://owasp.org/www-project-security-culture
