@@ -167,7 +167,7 @@ sensitive data.
 -   Risk mitigation selected is to encrypt the communication to the
     database (OWASP Proactive Control C3)
 
-For further guidance on threat modelling consult the following
+For further guidance on threat modeling, consult the following
 resources:
 
 -   [OWASP Threat Modeling community
@@ -177,25 +177,26 @@ resources:
 
 ## Gamification
 
-Use gamification as a way to introduce the threat modelling activity to
+Use gamification as a way to introduce the threat modeling activity to
 the development team. Gamification can ensure all members of a team are
 involved and given the opportunity to provide input. A security team
 member can initially run and record the results of the gamification
-activity, before handing over to the development team.
+activity before handing over to the development team.
 
 The [OWASP Cornucopia](https://owasp.org/www-project-cornucopia) card game is
 designed to help developers think about possible threats in a solution
 design, and derive a set of security requirements to build against. Team
-members are each dealt cards which describe particular threats. They
-then take turns trying to make a case for their particular threat posing
+members are each dealt cards that describe particular threats. They
+then take turns trying to make a case for their particular threat, posing
 a risk to the solution design, scoring points if they are able to do so.
 
 OWASP Cornucopia uses threats grouped into areas that are particularly
-relevant to software developers, such as authentication; authorisation;
-data validation. The threats are derived from [OWASP Application
-Security Verification Standard
-(ASVS)](https://owasp.org/www-project-application-security-verification-standard/)
-and [OWASP Web Security Testing
-Guide](https://owasp.org/www-project-web-security-testing-guide/).
+relevant to software developers, such as AI, authentication, authorization,
+cloud, data validation & encoding, DevOps, and frontend (client-side development).
+The threats are derived from various standards, OWASP Top 10 lists, guides,
+and other lists. For a full list and to find out how you can acquire and
+play their list of games, see their website at
+[cornucopia.owasp.org](https://cornucopia.owasp.org/about#Mappings).
+
 Using OWASP Cornucopia can be useful when it is desired to have security
-requirements aligned with these standards.
+requirements aligned with these standards, guides, and lists.
