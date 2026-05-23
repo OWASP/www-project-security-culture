@@ -183,7 +183,7 @@ involved and given the opportunity to provide input. A security team
 member can initially run and record the results of the gamification
 activity before handing over to the development team.
 
-The [OWASP Cornucopia](https://owasp.org/www-project-cornucopia) card game is
+The [OWASP Cornucopia](https://cornucopia.owasp.org) card game is
 designed to help developers think about possible threats in a solution
 design, and derive a set of security requirements to build against. Team
 members are each dealt cards that describe particular threats. They
