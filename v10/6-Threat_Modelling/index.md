@@ -167,7 +167,7 @@ sensitive data.
 -   Risk mitigation selected is to encrypt the communication to the
     database (OWASP Proactive Control C3)
 
-For further guidance on threat modeling, consult the following
+For further guidance on threat modelling, consult the following
 resources:
 
 -   [OWASP Threat Modeling community
@@ -177,7 +177,7 @@ resources:
 
 ## Gamification
 
-Use gamification as a way to introduce the threat modeling activity to
+Use gamification as a way to introduce the threat modelling activity to
 the development team. Gamification can ensure all members of a team are
 involved and given the opportunity to provide input. A security team
 member can initially run and record the results of the gamification
