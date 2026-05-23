@@ -191,7 +191,7 @@ then take turns trying to make a case for their particular threat, posing
 a risk to the solution design, scoring points if they are able to do so.
 
 OWASP Cornucopia uses threats grouped into areas that are particularly
-relevant to software developers, such as AI, authentication, authorization,
+relevant to software developers, such as AI, authentication, authorisation,
 cloud, data validation & encoding, DevOps, and frontend (client-side development).
 The threats are derived from various standards, OWASP Top 10 lists, guides,
 and other lists. For a full list and to find out how you can acquire and
